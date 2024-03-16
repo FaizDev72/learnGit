@@ -1,6 +1,11 @@
 #include<iostream>
 using namespace std;
 
+
+void quickSort(){
+	// Quick Sort Implementation
+}
+
 int main(){
 	cout<< "My name is Faiz"<< endl;
 
