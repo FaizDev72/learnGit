@@ -15,3 +15,7 @@ int main(){
 void bubbleSort(){
 	//Implemented bubbleSort;
 }
+
+void mergeSort(){
+	//Implemented mergeSort;
+}
